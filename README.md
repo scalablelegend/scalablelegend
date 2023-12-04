@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @scalablelegend
 - 👀 I’m interested in automations
 - 💞️ I’m looking to collaborate on python
+- Done
 
 <!---
 scalablelegend/scalablelegend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
